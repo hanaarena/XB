@@ -11,5 +11,11 @@ Sina Weibo Web client built with PHP-SDK
 * 测试地址 [http://yangculer.com/wb](http://yangculer.com/wb)
 
 ##更新日记  / UPDATE LOG
-* 使用jQuery的`$.ajax()`调用微博API，以获取已登录用户的头像和获取当前登录用户及其所关注用户的最新微博
+* 使用jQuery的`$.ajax()`调用微博API，以获取已登录用户的头像和获取当前登录用户及其所关注用户的最新微博<br />
   P.S.:调用用户相关的API需要`access_token`，PHP-SDK封装了获取`access_token`的方法 → `$token['access_token']`
+
+##后来 / LAST
+可惜。这`XB`还没正式开始就`半夭折`了<br />
+突然想起`TEAMTOY`的  <b>工作从来不是一个人的孤单，必须是一群人的狂欢</b><br />
+OK,先这样。<br />
+<i>--2013 SUMM.</i>
